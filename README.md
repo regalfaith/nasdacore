@@ -1,4 +1,4 @@
-Litecore
+Nasdacore
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/litecore.svg?style=flat-square)](https://www.npmjs.org/package/litecore)
@@ -13,14 +13,14 @@ Infrastructure to build Litecoin and blockchain-based applications for the next 
 Before you begin you'll need to have Node.js v4 or v0.12 installed. There are several options for installation. One method is to use [nvm](https://github.com/creationix/nvm) to easily switch between different versions, or download directly from [Node.js](https://nodejs.org/).
 
 ```bash
-npm install -g litecore
+npm install -g nasdacore
 ```
 
 Spin up a full node and join the network:
 
 ```bash
-npm install -g litecore
-litecored
+npm install -g nasdacore
+nasdacored
 ```
 
 You can then view the Insight block explorer at the default location: `http://localhost:3001/insight`, and your configuration file will be found in your home directory at `~/.litecore`.
